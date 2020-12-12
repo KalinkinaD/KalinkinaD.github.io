@@ -30,17 +30,17 @@ but there are some educational projects which could give a demonstration of my s
 
 ## Skills
 
-HTML5, CSS, JS ES5/ES6, React, Node JS, Redux.
-Ability to work with MongoDB. Postman.
-Experience to work with preprocessors Sass. Bootstrap, Material, Webpack.
-Ability to make Pixel Perfect and fully responsive coding of design-layouts.
-Experience with CSS and JS animations.
-Ability to work with layouts in such graphics editors: Photoshop, Figma.
-Understanding of cross-browser/platform issues, ability to debug and fix website problems.
-OOP skills.
-I am understanding of website optimization and the importance of SEO.
-Experience with tracking system Trello.
-Working with Git, Github-pages, Netlify, Heroku.
+HTML5, CSS, JS ES5/ES6, React, Node JS, Redux. <br/>
+Ability to work with MongoDB. Postman. <br/>
+Experience to work with preprocessors Sass. Bootstrap, Material, Webpack. <br/>
+Ability to make Pixel Perfect and fully responsive coding of design-layouts. <br/>
+Experience with CSS and JS animations. <br/>
+Ability to work with layouts in such graphics editors: Photoshop, Figma. <br/>
+Understanding of cross-browser/platform issues, ability to debug and fix website problems. <br/>
+OOP skills. <br/>
+I am understanding of website optimization and the importance of SEO. <br/>
+Experience with tracking system Trello. <br/>
+Working with Git, Github-pages, Netlify, Heroku. <br/>
 <br />
 **Soft skills**: I am communicative, empathy, patient, easy-going, open-minded, adaptive, creative, and responsible person. 
 I’m punctual. Team player able to take independent decisions. Self-development is a priority of my life values, 
