@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+## Summary of Qualifications
+To tell the truth, I don`t have any commercial experience yet, 
+<br/>
+but there are some educational projects which could give a demonstration of my skills.
 
-You can use the [editor on GitHub](https://github.com/KalinkinaD/quick-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Portfolio
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Collective Projects
 
-```markdown
-Syntax highlighted code block
+-[SlimMom](https://modest-benz-fcb0d4.netlify.app/)
+<img src="images/SlimMom.png?raw=true"/>
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+-[Simple WeatherApp](https://mykhaylopishchur.github.io/weather-app/)
 
-1. Numbered
-2. List
+<img src="images/WeatherApp.png?raw=true"/>
 
-**Bold** and _Italic_ and `Code` text
+---
 
-[Link](url) and ![Image](src)
-```
+### Training Projects
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Images Finder](https://github.com/KalinkinaD/goit-react-hw-03-image-finder)
+- [Phonebook](https://github.com/KalinkinaD/goit-react-hw-08-phonebook)
+- [Simple MovieApp](https://github.com/KalinkinaD/goit-react-hw-04-movies)
+---
 
-### Jekyll Themes
+## Skills
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KalinkinaD/quick-portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+HTML5, CSS, JS ES5/ES6, React, Node JS, Redux. <br/>
+Ability to work with MongoDB. Postman. <br/>
+Experience to work with preprocessors Sass. Bootstrap, Material, Webpack. <br/>
+Ability to make Pixel Perfect and fully responsive coding of design-layouts. <br/>
+Experience with CSS and JS animations. <br/>
+Ability to work with layouts in such graphics editors: Photoshop, Figma. <br/>
+Understanding of cross-browser/platform issues, ability to debug and fix website problems. <br/>
+OOP skills. <br/>
+I am understanding of website optimization and the importance of SEO. <br/>
+Experience with tracking system Trello. <br/>
+Working with Git, Github-pages, Netlify, Heroku. <br/>
+<br />
+**Soft skills**: I am communicative, empathy, patient, easy-going, open-minded, adaptive, creative, and responsible person. 
+I’m punctual. Team player able to take independent decisions. Self-development is a priority of my life values, 
+so I always prefer to deepen my gained knowledge and to improve & perfect myself.  I’m quite a self-critical person. 
+Mostly I am not afraid to admit my mistakes, always would try to analyze and fix them, correct everything and do my best next time. 
 
-### Support or Contact
+## Languages
+English - Intermediate
+<br />
+German – Low, I have learned it at school for some years.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Education
+-Bogomolets National Medical University, medical faculty No.4
+2013-2020
+<br /> 
+-Bogomolets National Medical University, Institute of Postgraduate Education, Radiology
+2020-2021
+
+## Additional education
+Full Stack courses in Go-IT
+fall 2019 – December 2020 
+
+## Hobbies
+Meditation, reading books, pottery, yoga. I love playing board games, spending time in nature (walking /jogging /open-air/out-of-doors activities). 
+Growing plants (avocados from seeds, for example).
+
