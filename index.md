@@ -4,12 +4,12 @@
 
 ### Collective Projects
 
---[SlimMom](https://modest-benz-fcb0d4.netlify.app/)
+-[SlimMom](https://modest-benz-fcb0d4.netlify.app/)
 <img src="images/SlimMom.png?raw=true"/>
 
 ---
 
---[Simple WeatherApp](https://mykhaylopishchur.github.io/weather-app/)
+-[Simple WeatherApp](https://mykhaylopishchur.github.io/weather-app/)
 
 <img src="images/WeatherApp.png?raw=true"/>
 
