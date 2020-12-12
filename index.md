@@ -51,6 +51,7 @@ German – Low, I have learned it at school for some years.
 ## Education
 -Bogomolets National Medical University, medical faculty No.4
 2013-2020
+<br /> 
 -Bogomolets National Medical University, Institute of Postgraduate Education, Radiology
 2020-2021
 
