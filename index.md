@@ -2,34 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Collective Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SlimMom](https://modest-benz-fcb0d4.netlify.app/)
+<img src="images/SlimMom.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Simple WeatherApp](https://mykhaylopishchur.github.io/weather-app/)
+<img src="images/WeatherApp.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Training Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Images Finder](https://github.com/KalinkinaD/goit-react-hw-03-image-finder)
+- [Phonebook](https://github.com/KalinkinaD/goit-react-hw-08-phonebook)
+- [Simple MovieApp](https://github.com/KalinkinaD/goit-react-hw-04-movies)
 ---
 
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
