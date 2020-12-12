@@ -46,6 +46,7 @@ Mostly I am not afraid to admit my mistakes, always would try to analyze and fix
 
 ## Languages
 English - Intermediate
+<br />
 German – Low, I have learned it at school for some years.
 
 ## Education
