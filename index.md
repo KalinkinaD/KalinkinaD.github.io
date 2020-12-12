@@ -1,5 +1,7 @@
 ## Summary of Qualifications
-To tell the truth, I don`t have any commercial experience yet, but there are some educational projects which could give a demonstration of my skills.
+To tell the truth, I don`t have any commercial experience yet, 
+<br/>
+but there are some educational projects which could give a demonstration of my skills.
 
 
 ## Portfolio
@@ -39,6 +41,7 @@ OOP skills.
 I am understanding of website optimization and the importance of SEO.
 Experience with tracking system Trello.
 Working with Git, Github-pages, Netlify, Heroku.
+<br />
 **Soft skills**: I am communicative, empathy, patient, easy-going, open-minded, adaptive, creative, and responsible person. 
 I’m punctual. Team player able to take independent decisions. Self-development is a priority of my life values, 
 so I always prefer to deepen my gained knowledge and to improve & perfect myself.  I’m quite a self-critical person. 
