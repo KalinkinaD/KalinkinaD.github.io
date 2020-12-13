@@ -3,7 +3,7 @@ Phone: +38(067)483-18-09
 <br/>
 Email: dkalinina8@gmail.com
 <br/>
-<a href="https://www.linkedin.com/in/daria-kalinina-60aaaa168/"> LinkedIn </a>
+<a href="https://www.linkedin.com/in/daria-kalinina-60aaaa168/"> LinkedIn </a> <br/>
 Kyiv, Ukraine
 
 ## Summary of Qualifications
