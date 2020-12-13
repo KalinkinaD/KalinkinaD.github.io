@@ -23,9 +23,10 @@ but there are some educational projects which could give a demonstration of my s
 
 ### Training Projects
 
-- [Images Finder](https://github.com/KalinkinaD/goit-react-hw-03-image-finder)
 - [Phonebook](https://github.com/KalinkinaD/goit-react-hw-08-phonebook)
+- [Images Finder](https://github.com/KalinkinaD/goit-react-hw-03-image-finder)
 - [Simple MovieApp](https://github.com/KalinkinaD/goit-react-hw-04-movies)
+
 ---
 
 ## Skills
@@ -67,4 +68,10 @@ fall 2019 – December 2020
 Meditation, reading books, pottery, yoga. I love playing board games, spending time in nature (walking /jogging /open-air/out-of-doors activities). 
 Growing plants (avocados from seeds, for example).
 
+## Contact Information
+Phone: +38(067)483-18-09
+<br/>
+Email: dkalinina8@gmail.com
+<br/>
+<a href="https://www.linkedin.com/in/daria-kalinina-60aaaa168/"> LinkedIn </a>
 
