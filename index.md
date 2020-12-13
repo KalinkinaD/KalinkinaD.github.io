@@ -50,8 +50,8 @@ Working with Git, Github-pages, Netlify, Heroku. <br/>
 ---
 
 ## Soft Skills
-I am communicative, empathy, patient, easy-going, open-minded, adaptive, creative, and responsible person. <br/>
-I’m punctual. Team player able to take independent decisions. Self-development is a priority of my life values, <br/>
+I am a communicative, empathy, patient, punctual, easy-going, open-minded, adaptive, creative, and responsible person. <br/>
+I could be a proper team player who is able to take independent decisions. Self-development is a priority of my life values, <br/>
 so I always prefer to deepen my gained knowledge and to improve & perfect myself.  I’m quite a self-critical person. <br/>
 Mostly I am not afraid to admit my mistakes, always would try to analyze and fix them, correct everything and do my best next time. 
 
