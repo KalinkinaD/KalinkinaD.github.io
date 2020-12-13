@@ -1,3 +1,10 @@
+## Contact Information
+Phone: +38(067)483-18-09
+<br/>
+Email: dkalinina8@gmail.com
+<br/>
+<a href="https://www.linkedin.com/in/daria-kalinina-60aaaa168/"> LinkedIn </a>
+
 ## Summary of Qualifications
 To tell the truth, I don`t have any commercial experience yet, 
 <br/>
@@ -68,10 +75,4 @@ fall 2019 – December 2020
 Meditation, reading books, pottery, yoga. I love playing board games, spending time in nature (walking /jogging /open-air/out-of-doors activities). 
 Growing plants (avocados from seeds, for example).
 
-## Contact Information
-Phone: +38(067)483-18-09
-<br/>
-Email: dkalinina8@gmail.com
-<br/>
-<a href="https://www.linkedin.com/in/daria-kalinina-60aaaa168/"> LinkedIn </a>
 
