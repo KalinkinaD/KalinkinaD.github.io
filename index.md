@@ -28,8 +28,6 @@ Working with Git, Github-pages, Netlify, Heroku. <br/>
 
 ## Portfolio
 
----
-
 ### Collective Projects
 
 -[SlimMom](https://modest-benz-fcb0d4.netlify.app/)
