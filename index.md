@@ -56,6 +56,8 @@ so I always prefer to deepen my gained knowledge and to improve & perfect myself
 Mostly I am not afraid to admit my mistakes, always would try to analyze and fix them, correct everything and do my best next time. 
 
 ## Languages
+Ukrainian - native <br/>
+Russian - native <br/>
 English - Intermediate
 <br />
 German – Low, I have learned it at school for some years.
