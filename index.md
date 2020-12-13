@@ -4,12 +4,27 @@ Phone: +38(067)483-18-09
 Email: dkalinina8@gmail.com
 <br/>
 <a href="https://www.linkedin.com/in/daria-kalinina-60aaaa168/"> LinkedIn </a>
+Kyiv, Ukraine
 
 ## Summary of Qualifications
 To tell the truth, I don`t have any commercial experience yet, 
 <br/>
 but there are some educational projects which could give a demonstration of my skills.
 
+## Technical Skills
+
+HTML5, CSS, JS ES5/ES6, React, Node JS, Redux. <br/>
+Ability to work with MongoDB. Postman. <br/>
+Experience to work with preprocessors Sass. Bootstrap, Material, Webpack. <br/>
+Ability to make Pixel Perfect and fully responsive coding of design-layouts. <br/>
+Experience with CSS and JS animations. <br/>
+Ability to work with layouts in such graphics editors: Photoshop, Figma. <br/>
+Understanding of cross-browser/platform issues, ability to debug and fix website problems. <br/>
+OOP skills. <br/>
+I am understanding of website optimization and the importance of SEO. <br/>
+Experience with tracking system Trello. <br/>
+Working with Git, Github-pages, Netlify, Heroku. <br/>
+<br />
 
 ## Portfolio
 
@@ -36,23 +51,10 @@ but there are some educational projects which could give a demonstration of my s
 
 ---
 
-## Skills
-
-HTML5, CSS, JS ES5/ES6, React, Node JS, Redux. <br/>
-Ability to work with MongoDB. Postman. <br/>
-Experience to work with preprocessors Sass. Bootstrap, Material, Webpack. <br/>
-Ability to make Pixel Perfect and fully responsive coding of design-layouts. <br/>
-Experience with CSS and JS animations. <br/>
-Ability to work with layouts in such graphics editors: Photoshop, Figma. <br/>
-Understanding of cross-browser/platform issues, ability to debug and fix website problems. <br/>
-OOP skills. <br/>
-I am understanding of website optimization and the importance of SEO. <br/>
-Experience with tracking system Trello. <br/>
-Working with Git, Github-pages, Netlify, Heroku. <br/>
-<br />
-**Soft skills**: I am communicative, empathy, patient, easy-going, open-minded, adaptive, creative, and responsible person. 
-I’m punctual. Team player able to take independent decisions. Self-development is a priority of my life values, 
-so I always prefer to deepen my gained knowledge and to improve & perfect myself.  I’m quite a self-critical person. 
+## Soft Skills
+I am communicative, empathy, patient, easy-going, open-minded, adaptive, creative, and responsible person. <br/>
+I’m punctual. Team player able to take independent decisions. Self-development is a priority of my life values, <br/>
+so I always prefer to deepen my gained knowledge and to improve & perfect myself.  I’m quite a self-critical person. <br/>
 Mostly I am not afraid to admit my mistakes, always would try to analyze and fix them, correct everything and do my best next time. 
 
 ## Languages
