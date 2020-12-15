@@ -7,9 +7,8 @@ Email: dkalinina8@gmail.com
 Kyiv, Ukraine
 
 ## Summary of Qualifications
-To tell the truth, I don`t have any commercial experience yet, 
-<br/>
-but there are some educational projects which could give a demonstration of my skills.
+Junior Frontend JS developer. <br/> 
+Personal and team experience of development due to studyindg for 1 year at GoIT Academy
 
 ## Technical Skills
 
@@ -28,15 +27,16 @@ Working with Git, Github-pages, Netlify, Heroku. <br/>
 
 ## Portfolio
 
-### Collective Projects
+### Team Projects
 
--[SlimMom](https://modest-benz-fcb0d4.netlify.app/)
+-[SlimMom](https://modest-benz-fcb0d4.netlify.app/) 
+React JS, NodeJS, Express, Redux, React Hooks
 <img src="images/SlimMom.png?raw=true"/>
 
 ---
 
 -[Simple WeatherApp](https://mykhaylopishchur.github.io/weather-app/)
-
+JS
 <img src="images/WeatherApp.png?raw=true"/>
 
 ---
@@ -59,8 +59,6 @@ Mostly I am not afraid to admit my mistakes, always would try to analyze and fix
 Ukrainian - native <br/>
 Russian - native <br/>
 English - Intermediate
-<br />
-German – Low, I have learned it at school for some years.
 
 ## Education
 -Bogomolets National Medical University, medical faculty No.4
@@ -70,8 +68,11 @@ German – Low, I have learned it at school for some years.
 2020-2021
 
 ## Additional education
-Full Stack courses in Go-IT
+Full Stack courses in GoIT Academy
 fall 2019 – December 2020 
+
+## Last Work Experience
+September 2019 - October 2020, Bogomolets National Medical University, assistant at the Department of Neurology
 
 ## Hobbies
 Meditation, reading books, pottery, yoga. I love playing board games, spending time in nature (walking /jogging /open-air/out-of-doors activities). 
