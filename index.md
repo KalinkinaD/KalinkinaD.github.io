@@ -62,7 +62,6 @@ English - Intermediate
 
 ## Education
 - 2013-2020, Bogomolets National Medical University, medical faculty No.4
-<br /> 
 - 2020-2021, Bogomolets National Medical University, Institute of Postgraduate Education, Radiology
 
 
@@ -75,7 +74,6 @@ December 2018 - August 2019, LLC "Sport-PROFIT", sports doctor <br/>
 July 2014 - August 2014, Cherkasy Region Clinical Hospital, junior surgical nurse <br/>
 
 ## Hobbies
-Meditation, reading books, pottery, yoga. I love playing board games, spending time in nature (walking /jogging /open-air/out-of-doors activities). <br/>
-Growing plants (avocados from seeds, for example).
+Meditation, reading books, pottery, yoga. I love playing board games, spending time in nature (walking /jogging /open-air/out-of-doors activities). Growing plants (avocados from seeds, for example).
 
 
