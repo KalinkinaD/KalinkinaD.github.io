@@ -6,9 +6,9 @@ Email: dkalinina8@gmail.com
 <a href="https://www.linkedin.com/in/kalininadaria/"> LinkedIn </a> <br/>
 Kyiv, Ukraine
 
-## Summary of Qualifications
-Junior Frontend JS developer. <br/> 
-Personal and team experience of development due to studyindg for 1 year at GoIT Academy
+## Summary
+I`m  a  Junior Frontend JS developer. I have personal and team experience of development due to studyindg for 1 year at GoIT Academy. <br/>
+I had participated in three hackathons. Now I continue to deepen my IT-knowledge and make Pet-projects.
 
 ## Technical Skills
 
@@ -61,21 +61,21 @@ Russian - native <br/>
 English - Intermediate
 
 ## Education
--Bogomolets National Medical University, medical faculty No.4
-2013-2020
+- 2013-2020, Bogomolets National Medical University, medical faculty No.4
 <br /> 
--Bogomolets National Medical University, Institute of Postgraduate Education, Radiology
-2020-2021
+- 2020-2021, Bogomolets National Medical University, Institute of Postgraduate Education, Radiology
+
 
 ## Additional education
-Full Stack courses in GoIT Academy
-fall 2019 – December 2020 
+October 2019 – December 2020, Full Stack courses in GoIT Academy 
 
-## Last Work Experience
-September 2019 - October 2020, Bogomolets National Medical University, assistant at the Department of Neurology
+## Work Experience
+September 2019 - October 2020, Bogomolets National Medical University, assistant at the Department of Neurology <br/>
+December 2018 - August 2019, LLC "Sport-PROFIT", sports doctor <br/>
+July 2014 - August 2014, Cherkasy Region Clinical Hospital, junior surgical nurse <br/>
 
 ## Hobbies
-Meditation, reading books, pottery, yoga. I love playing board games, spending time in nature (walking /jogging /open-air/out-of-doors activities). 
+Meditation, reading books, pottery, yoga. I love playing board games, spending time in nature (walking /jogging /open-air/out-of-doors activities). <br/>
 Growing plants (avocados from seeds, for example).
 
 
